@@ -1,0 +1,2 @@
+# AIST4010_2024_assign1
+基于AlexNet和ResNet的CNN网络图像分类
